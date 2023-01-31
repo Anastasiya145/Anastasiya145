@@ -22,10 +22,10 @@
 </div>
 
 ### 🔥 My last projects
-+ [Todo-App](https://anastasiya145.github.io/2048_game/) - an interactive application for task recording.
-+ [2048 game](https://anastasiya145.github.io/2048_game/) - the desktop version of the famous game.
-+ [DIA](https://anastasiya145.github.io/dia_landing/) - the modern landing page with interactive elements.
-+ [MET](https://anastasiya145.github.io/met-landing/) - the pixel-perfect responsive landing page.
++ [Todo-App](https://github.com/Anastasiya145/todo-app_react) - an interactive application for task recording.
++ [2048 game](https://github.com/Anastasiya145/2048_game) - the desktop version of the famous game.
++ [DIA](https://github.com/Anastasiya145/dia_landing) - the modern landing page with interactive elements.
++ [MET](https://github.com/Anastasiya145/met-landing) - the pixel-perfect responsive landing page.
 
 ### 🌱 Connect with me:
 + [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anastasiya-ivanova-494567109/))
