@@ -28,7 +28,7 @@
 + [MET](https://github.com/Anastasiya145/met-landing) - the pixel-perfect responsive landing page.
 
 ### 🌱 Connect with me:
-+ [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/anastasiya-ivanova-494567109/))
++ [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-ivanova-494567109/)
 + My email: asiva@ukr.net
 
 #
