@@ -23,7 +23,7 @@
 
 ### 🔥 My last projects
 React:
-+ [Apple-store](https://github.com/Anastasiya145/react_apple-store) - a single-page online store with various features for users. It allows users to explore products, add them to their cart or favorites, search for specific items, sort products according to their preferences, modify the number of products in their cart, and view detailed information about each product.
++ [Apple-store](https://github.com/Anastasiya145/react_apple-store) - an online store with various features for users. It allows users to explore products, add them to their cart or favorites, search for specific items, sort products according to their preferences, modify the number of products in their cart, and view detailed information about each product.
 + [Todo-App](https://github.com/Anastasiya145/todo-app_react) - an interactive application for task recording.
 
 JS:
