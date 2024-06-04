@@ -24,7 +24,7 @@
 ### 🔥 My last projects
 React:
 + [Apple-store](https://github.com/Anastasiya145/react_apple-store) - an online store with various features for users. It allows users to explore products, add them to their cart or favorites, search for specific items, sort products according to their preferences, modify the number of products in their cart, and view detailed information about each product.
-+ [Todo-App]((https://github.com/Anastasiya145/to-do_react_app)) - an interactive application for task recording.
++ [Todo-App](https://github.com/Anastasiya145/to-do_react_app) - an interactive application for task recording.
 
 JS:
 + [2048 game](https://github.com/Anastasiya145/2048_game) - the desktop version of the famous game.
